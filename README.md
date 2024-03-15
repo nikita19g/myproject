@@ -1,4 +1,4 @@
 # myproject
 This is my first Git repository 
 <br>
-Author- Nikita Gurav
+Author- Nikita (my projecy )
